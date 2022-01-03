@@ -1,0 +1,175 @@
+﻿Country,Cluster,Code
+Albania,0,ALB
+Argentina,0,ARG
+Australia,0,AUS
+Austria,0,AUT
+Bahamas,0,BHM
+Bahrain,0,BHR
+Barbados,0,BRB
+Belarus,0,BLR
+Belgium,0,BEL
+Brunei,0,BRN
+Bulgaria,0,BGR
+Canada,0,CAN
+Chile,0,CHL
+Costa Rica,0,CRI
+Croatia,0,HRV
+Cyprus,0,CYP
+Czechia,0,CZE
+Denmark,0,DNK
+Estonia,0,EST
+Finland,0,FIN
+France,0,FRA
+Georgia,0,GEO
+Germany,0,DEU
+Greece,0,GRC
+Hong Kong,0,HKG
+Hungary,0,HUN
+Iceland,0,ISL
+Ireland,0,IRL
+Israel,0,ISR
+Italy,0,ITA
+Japan,0,JPN
+Kazakhstan,0,KAZ
+Kuwait,0,KWT
+Latvia,0,LVA
+Lithuania,0,LIE
+Luxembourg,0,LUX
+Malaysia,0,MYS
+Malta,0,MLT
+Montenegro,0,MNE
+Netherlands,0,NLD
+New Zealand,0,NZL
+Norway,0,NOR
+Panama,0,PAN
+Peru,0,PER
+Poland,0,POL
+Portugal,0,PRT
+Qatar,0,QAT
+Romania,0,ROU
+Russia,0,RUS
+Saint Lucia,0,LCA
+Serbia,0,SRB
+Singapore,0,SGP
+Slovenia,0,SVN
+South Korea,0,KOR
+Spain,0,ESP
+Sweden,0,SWE
+Switzerland,0,CHE
+Thailand,0,THA
+United Arab Emirates,0,ARE
+United Kingdom,0,GBR
+United States,0,USA
+Uruguay,0,URY
+Algeria,1,DZA
+Armenia,1,ARM
+Azerbaijan,1,AZE
+Bangladesh,1,BGD
+Belize,1,BLZ
+Bhutan,1,BTN
+Bolivia,1,BOL
+Bosnia and Herzegovina,1,BIH
+Botswana,1,BWA
+Brazil,1,BRA
+Cabo Verde,1,CPV
+China,1,CHN
+Colombia,1,COL
+Cuba,1,CUB
+Dominican Republic,1,DOM
+Ecuador,1,ECU
+Egypt,1,EGY
+El Salvador,1,SLV
+Fiji,1,FJI
+Gabon,1,GAB
+Guatemala,1,GTM
+Guyana,1,GUY
+Honduras,1,HND
+India,1,IND
+Indonesia,1,IDN
+Iran,1,IRN
+Iraq,1,IRQ
+Jamaica,1,JAM
+Jordan,1,JOR
+Kyrgyzstan,1,KGZ
+Lebanon,1,LBN
+Libya,1,LBY
+Maldives,1,MDV
+Mauritius,1,MUS
+Mexico,1,MEX
+Moldova,1,MDA
+Mongolia,1,MNG
+Morocco,1,MAR
+Nicaragua,1,NIC
+North Macedonia,1,MKD
+Oman,1,OMN
+Pakistan,1,PAK
+Palestine,1,PSE
+Paraguay,1,PRY
+Philippines,1,PHL
+Saint Vincent and the Grenadines,1,VCT
+Samoa,1,WSM
+Sao Tome and Principe,1,STP
+Saudi Arabia,1,SAU
+South Africa,1,ZAF
+Sri Lanka,1,LKA
+Suriname,1,SUR
+Syria,1,SYR
+Tajikistan,1,TJK
+Tonga,1,TON
+Trinidad and Tobago,1,TTO
+Tunisia,1,TUN
+Turkey,1,TUR
+Turkmenistan,1,TKM
+Ukraine,1,UKR
+Uzbekistan,1,UZB
+Venezuela,1,VEN
+Vietnam,1,VNM
+Afghanistan,2,AFG
+Angola,2,AGO
+Benin,2,BEN
+Burkina Faso,2,BFA
+Burundi,2,BDI
+Cambodia,2,KHM
+Cameroon,2,CMR
+Central African Republic,2,CAF
+Chad,2,TCD
+Comoros,2,COM
+Congo,2,COG
+Congo (Democratic Republic of the),2,COD
+Djibouti,2,DJI
+Equatorial Guinea,2,GNQ
+Eswatini,2,SWZ
+Ethiopia,2,ETH
+Gambia,2,GMB
+Ghana,2,GHA
+Guinea,2,GIN
+Guinea-Bissau,2,GNB
+Haiti,2,HTI
+Kenya,2,KEN
+Laos,2,LAO
+Lesotho,2,LSO
+Liberia,2,LBR
+Madagascar,2,MDG
+Malawi,2,MWI
+Mali,2,MLI
+Mauritania,2,MRT
+Mozambique,2,MOZ
+Myanmar,2,MMR
+Namibia,2,NAM
+Nepal,2,NPL
+Niger,2,NER
+Nigeria,2,NGA
+Papua New Guinea,2,PNG
+Rwanda,2,RWA
+Senegal,2,SEN
+Sierra Leone,2,SLE
+Solomon Islands,2,SLB
+South Sudan,2,SSD
+Sudan,2,SDN
+Tanzania,2,TZA
+Timor-Leste,2,TLS
+Togo,2,TGO
+Uganda,2,UGA
+Vanuatu,2,VUT
+Zambia,2,ZMB
+Zimbabwe,2,ZWE
